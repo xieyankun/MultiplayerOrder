@@ -1,0 +1,63 @@
+
+@font-face {font-family: "udmps";
+  src: url('iconfont.eot?t=1500102050206'); /* IE9*/
+  src: url('iconfont.eot?t=1500102050206#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1500102050206') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1500102050206') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1500102050206#udmps') format('svg'); /* iOS 4.1- */
+}
+
+.udmps {
+  font-family:"udmps" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ki-cart:before { content: "\e600"; }
+
+.ki-dian:before { content: "\e682"; }
+
+.ki-dingdan:before { content: "\e6de"; }
+
+.ki-jian:before { content: "\e61b"; }
+
+.ki-wagong:before { content: "\e606"; }
+
+.ki-gongju:before { content: "\e6c8"; }
+
+.ki-selected1:before { content: "\e609"; }
+
+.ki-shui:before { content: "\e60a"; }
+
+.ki-home:before { content: "\e63b"; }
+
+.ki-jia:before { content: "\e62c"; }
+
+.ki-search:before { content: "\e751"; }
+
+.ki-selected2:before { content: "\e6f2"; }
+
+.ki-classify:before { content: "\e607"; }
+
+.ki-order:before { content: "\e64d"; }
+
+.ki-youqi:before { content: "\e7ed"; }
+
+.ki-arrow-down:before { content: "\e621"; }
+
+.ki-zhuanhuan:before { content: "\e695"; }
+
+.ki-mu:before { content: "\e885"; }
+
+.ki-xuanze:before { content: "\e61f"; }
+
+.ki-my:before { content: "\e60f"; }
+
+.ki-arrow-left:before { content: "\e752"; }
+
+.ki-arrow-right:before { content: "\e753"; }
+
+.ki-arrow-up:before { content: "\e754"; }
+
